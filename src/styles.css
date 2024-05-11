@@ -3,12 +3,12 @@
 @import 'tailwindcss/utilities';
 
 .bg-contact-background {
-    background-image: url('/src/images/background.jpg');
+    background-image: url('/src/images/output/background.webp');
   }
   
   .sm\:bg-rodes-background {
     @media (max-width: 600px) {
-      background-image: url('/src/images/rodes.jpg');
+      background-image: url('/src/images/output/rodes.webp');
     }
   }
   
